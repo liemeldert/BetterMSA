@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# BetterMSA
+*Augment MySchoolApp with much needed features*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What can it do? 
+* Currently, very much work in progress so not much.
+
+## Planned features
+* Complete deadname removal sitewide
+  * For trans students to prevent dysphoria, as in many schools a complete name change requires many steps that may be impossible in unsafe households
+  * This feature is why this extension was originally developed.
+* Improved schedule with current time indicators, color coding etc.
+* Class color coding system to make it easier 
 
 ## Available Scripts
 
